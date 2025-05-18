@@ -1,7 +1,6 @@
 {
     "bot1": {
         "source": "https://github.com/BotzHub/TempGmail-Bot",
-        "branch": "master",
         "env": {
             "BOT_TOKEN": "8145714862:AAHJobXXT_M7QdT5Hi4y1jof31Sj5ojw_cc"
             "ALLOWED_GROUP_ID": "-1002423153637"
