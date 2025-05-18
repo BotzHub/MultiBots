@@ -1,23 +1,13 @@
-{   
+{
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "source": "https://github.com/BotzHub/TempGmail-Bot",
+        "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "8145714862:AAHJobXXT_M7QdT5Hi4y1jof31Sj5ojw_cc"
+            "ALLOWED_GROUP_ID": "-1002423153637"
+            "GROUP_USERNAME": "@neogamersnewopte"
+            "ADMIN_IDS": "7142782067"
         },
-        "run": ""
-    },
-    "bot2": {
-        "source": "https://github.com/<GitHub Username>/<repo2>.git",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": ""
-    },
-    "bot3": {
-        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": ""
+        "run": "TEMPMAIL.py"
+        }
     }
-}
